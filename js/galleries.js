@@ -5,8 +5,6 @@ const galleries = {
     images: [
       { src: 'images/projects/iit-01.jpg', caption: 'Aerial view — Synergy Arena complex' },
       { src: 'images/projects/iit-01.jpg', caption: 'North elevation with glass dome' },
-      // { src: 'images/projects/iit-02.jpg', caption: 'Indoor Olympic swimming pool' },
-      // { src: 'images/projects/iit-03.jpg', caption: '500-seat auditorium interior' },
       { src: 'images/projects/iit-04.jpg', caption: 'Landscaped courtyard & approach' },
     ]
   },
