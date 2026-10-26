@@ -29,23 +29,23 @@ const galleries = {
   smjv: {
     title: 'SMJV Auditorium — Shree Mahaveer Jain Vidyalay, Pune',
     images: [
-      { src: 'images/projects/smjv-01.jpg' },
+     //  { src: 'images/projects/smjv-01.jpg' },
       { src: 'images/projects/smjv-02.jpg' },
-      { src: 'images/projects/smjv-03.jpg' },
-      { src: 'images/projects/smjv-04.jpg' },
-      { src: 'images/projects/smjv-05.jpg' }
+      // { src: 'images/projects/smjv-03.jpg' },
+      // { src: 'images/projects/smjv-04.jpg' },
+      // { src: 'images/projects/smjv-05.jpg' }
     ]
   },
   mml: {
     title: "Marathwada Mitra Mandal, Lohgaon \u2014 5-Floor Extension",
     images: [
-      { src: 'images/projects/mml-01.jpg' },
+      // { src: 'images/projects/mml-01.jpg' },
       { src: 'images/projects/mml-02.jpg' },
       { src: 'images/projects/mml-03.jpg' },
-      { src: 'images/projects/mml-04.jpg' },
-      { src: 'images/projects/mml-05.jpg' },
+      // { src: 'images/projects/mml-04.jpg' },
+      // { src: 'images/projects/mml-05.jpg' },
       { src: 'images/projects/mml-06.jpg' },
-      { src: 'images/projects/mml-07.jpg' }
+      // { src: 'images/projects/mml-07.jpg' }
     ]
   },
 };
